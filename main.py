@@ -7,3 +7,5 @@ print("Hello World")
 print("Hello World2!")
 # Adding new item in main branch
 print("Hello World3")
+# Adding new item in hotfix
+print("Hello World4")
